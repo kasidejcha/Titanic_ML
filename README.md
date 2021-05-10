@@ -2,8 +2,8 @@
 Kaggle Titanic Machine Learning Competition: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck
 
 Steps involved:
-1. Load data
-2. Overview exploration of the data set
+1. Load datasets
+2. Overview exploration of the datasets
 3. Exploratory data analysis (EDA)
 4. Data preprocessing
 5. Model Building & Hyperparameter tuning with cross validation
