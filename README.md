@@ -1,4 +1,4 @@
-# titanic_ML
+# Titanic_ML
 Kaggle Titanic Machine Learning Competition: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck
 
 Steps involved:
